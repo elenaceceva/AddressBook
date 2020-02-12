@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7855efb4-0b43-4046-8c91-b57a5a6d4378" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ruby Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XLVvOUQ5tbsriRXhg2KhuBGJ6M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+  </component>
+  <component name="RunManager" selected="Ruby.main">
+    <configuration name="address_book" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="AddressBook" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/address_book.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="AddressBook" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/main.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Ruby.main" />
+        <item itemvalue="Ruby.address_book" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7855efb4-0b43-4046-8c91-b57a5a6d4378" name="Default Changelist" comment="" />
+      <created>1580825591868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580825591868</updated>
+      <workItem from="1580825594701" duration="721000" />
+      <workItem from="1580893438580" duration="20581000" />
+      <workItem from="1580980923843" duration="20323000" />
+      <workItem from="1581073335740" duration="2621000" />
+      <workItem from="1581339781301" duration="247000" />
+      <workItem from="1581419661775" duration="7925000" />
+      <workItem from="1581500368793" duration="292000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="697" y="340" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580893655870">
+      <screen x="0" y="23" width="1920" height="1014" />
+    </state>
+    <state x="697" y="340" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1014@0.23.1920.1014" timestamp="1580893655870" />
+    <state x="698" y="284" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581433109279">
+      <screen x="0" y="23" width="1920" height="1014" />
+    </state>
+    <state x="698" y="284" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.1014@0.23.1920.1014" timestamp="1581433109279" />
+    <state width="939" height="274" key="GridCell.Tab.0.bottom" timestamp="1581502879831">
+      <screen x="0" y="23" width="1920" height="1012" />
+    </state>
+    <state width="939" height="274" key="GridCell.Tab.0.bottom/0.23.1920.1012@0.23.1920.1012" timestamp="1581502879831" />
+    <state width="939" height="275" key="GridCell.Tab.0.bottom/0.23.1920.1014@0.23.1920.1014" timestamp="1581439359760" />
+    <state width="939" height="274" key="GridCell.Tab.0.center" timestamp="1581502879829">
+      <screen x="0" y="23" width="1920" height="1012" />
+    </state>
+    <state width="939" height="274" key="GridCell.Tab.0.center/0.23.1920.1012@0.23.1920.1012" timestamp="1581502879829" />
+    <state width="939" height="275" key="GridCell.Tab.0.center/0.23.1920.1014@0.23.1920.1014" timestamp="1581439359760" />
+    <state width="939" height="274" key="GridCell.Tab.0.left" timestamp="1581502879828">
+      <screen x="0" y="23" width="1920" height="1012" />
+    </state>
+    <state width="939" height="274" key="GridCell.Tab.0.left/0.23.1920.1012@0.23.1920.1012" timestamp="1581502879828" />
+    <state width="939" height="275" key="GridCell.Tab.0.left/0.23.1920.1014@0.23.1920.1014" timestamp="1581439359759" />
+    <state width="939" height="274" key="GridCell.Tab.0.right" timestamp="1581502879830">
+      <screen x="0" y="23" width="1920" height="1012" />
+    </state>
+    <state width="939" height="274" key="GridCell.Tab.0.right/0.23.1920.1012@0.23.1920.1012" timestamp="1581502879830" />
+    <state width="939" height="275" key="GridCell.Tab.0.right/0.23.1920.1014@0.23.1920.1014" timestamp="1581439359760" />
+    <state x="469" y="169" key="SettingsEditor" timestamp="1580900085522">
+      <screen x="0" y="23" width="1920" height="1014" />
+    </state>
+    <state x="469" y="169" key="SettingsEditor/0.23.1920.1014@0.23.1920.1014" timestamp="1580900085522" />
+    <state x="625" y="247" width="670" height="676" key="search.everywhere.popup" timestamp="1580899982958">
+      <screen x="0" y="23" width="1920" height="1014" />
+    </state>
+    <state x="625" y="247" width="670" height="676" key="search.everywhere.popup/0.23.1920.1014@0.23.1920.1014" timestamp="1580899982958" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/main.rb</url>
+          <line>14</line>
+          <properties myBlockOrdinal="-1">
+            <option name="block-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AddressBook@address_book.rcov" NAME="address_book Coverage Results" MODIFIED="1581502869761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AddressBook" />
+    <SUITE FILE_PATH="coverage/AddressBook@main.rcov" NAME="main Coverage Results" MODIFIED="1581502879792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AddressBook" />
+  </component>
+</project>
